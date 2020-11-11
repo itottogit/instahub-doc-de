@@ -508,7 +508,7 @@ Hilf mit den Unterricht zu gestalten und [reiche eigene Fragen ein](https://goo.
 
 ### Ein eigener Webshop
 
-Ihre Schülervertretung druckt eigene T-Shirts, welche mittlerweile deutschlandweit sehr gefragt sind. Um noch mehr Schüler und Lehrer mit T-Shirts, wie "Schule ist do....ch toll", "10/8 Lehrer haben Probleme in Mathe" und "Ich bin Leerer" zu erfreuen, wollen Sie einen eigenen Shop entwickeln.
+Deine Schülervertretung druckt eigene T-Shirts, welche mittlerweile deutschlandweit sehr gefragt sind. Um noch mehr Schüler und Lehrer mit T-Shirts, wie "Schule ist do....ch toll", "10/8 Lehrer haben Probleme in Mathe" und "Ich bin Leerer" zu erfreuen, wollen sie einen eigenen Shop entwickeln.
 
 1. Hast du schon einmal online eingekauft? Öffne deinen Lieblingsshop.
 2. Versuche anhand der Webseite die darunter liegende Datenbank abzuleiten. Dies ist sehr, sehr schwer, da die Datenbank vermutlich äußerst groß ist. Es reicht, wenn du einige Bereiche aufnimmst. 
